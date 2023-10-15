@@ -15,8 +15,7 @@
 
 # 🚀 Tested Platform 
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Play with Docker Platform](https://labs.play-with-docker.com/) 
+- [Docker Desktop](https://www.docker.com/products/docker-desktop) 
 
 
 # 📝 Join our Community
@@ -44,13 +43,25 @@
 
 | Title       | Topics Covered         | Category | Labs |
 |:-------------|:------------------|:------|:------|
-| [Docker Scout](https://github.com/docker/scout-cli) | Scout CLI, Scout Sample Demo| Security | 2 |
+| [Docker Scout](https://github.com/collabnix/docker-scout-community) | Scout CLI, Scout Sample Demo| Security | 2 |
 | [Docker init](https://github.com/dockersamples/docker-init-demos) | Dockerfile, Compose, Python, Go, Rust, Node | Developer Tools | 5|
 | [Docker init for Python](https://github.com/dockersamples/docker-init-demos/tree/main/python) | Dockerfile, Compose, Python | Developer Tools| 1|
 | [Docker init for Go](https://github.com/dockersamples/docker-init-demos/tree/main/go) |Dockerfile, Compose, Go | Developer Tools | 1|
 | [Docker init for Rust](https://github.com/dockersamples/docker-init-demos/tree/main/rust) |Dockerfile, Compose, Rust | Developer Tools | 1|
 | [Compose Watch](https://github.com/dockersamples/docker-init-demos/tree/main/python/compose-watch)| Compose, Sync, Rebuild| Developer Tools | 1 |
 | [Compose Include](https://github.com/ajeetraina/compose-include) | Compose, Include | Developer Tools | 1 |
+
+
+## Industry Use cases
+
+| Title       | Topics Covered         | Labs |
+|:-------------|:------------------|:------|
+| [Docker for AI](https://github.com/collabnix/dockerlabs/tree/master/workshop/ai) | Docker for Data Scientist | 1 |
+| Docker for Gaming | Gaming | Not Started|
+| Docker for Financial Service | - | Not Started|
+| Docker for Healthcare | - | Not Started|
+
+
 
 ## Docker WorkShop for Beginners 
 
